@@ -28,7 +28,7 @@ body {
 /* REUSABLE STUFF */
 .row {
 	max-width: 1140px;
-	margin: 0 auto;
+	margin: 20px auto;
 }
 
 section {
@@ -99,6 +99,11 @@ a:visited {
 a:hover,
 a:active {
 	border-bottom: 1px solid #f9f9f9;
+}
+
+a.zenva-link:link,
+a.zenva-link:visited {
+	color: #81C081;
 }
 
 /* GAME SECTION */
